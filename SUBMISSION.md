@@ -6,15 +6,15 @@ Solana Validator Identity Transfer Tool
 
 ## Public demo URL
 
-`https://your-vercel-demo-url.vercel.app`
+`https://solana-validator-identity-transfer.vercel.app`
 
 ## GitHub repo
 
-`https://github.com/your-org/solana-validator-identity-transfer-tool`
+`https://github.com/trazkul/solana-validator-identity-transfer-tool`
 
 ## Demo video URL
 
-`https://your-demo-video-url`
+`https://drive.google.com/file/d/1KWgHKeY88Q_cqmPqF-kTc-WAlI6cstSy/view?usp=drive_link`
 
 ## Target user
 

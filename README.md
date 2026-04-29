@@ -10,9 +10,9 @@ The project is designed for the Superteam Ukraine bounty and is intended to demo
 
 ## Public links
 
-- Public demo URL: `https://your-vercel-demo-url.vercel.app`
-- GitHub repository: `https://github.com/your-org/solana-validator-identity-transfer-tool`
-- Demo video URL: `https://your-demo-video-url`
+- Public demo URL: `https://solana-validator-identity-transfer.vercel.app`
+- GitHub repository: `https://github.com/trazkul/solana-validator-identity-transfer-tool`
+- Demo video URL: `https://drive.google.com/file/d/1KWgHKeY88Q_cqmPqF-kTc-WAlI6cstSy/view?usp=drive_link`
 
 ## Target user
 
